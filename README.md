@@ -1,9 +1,10 @@
 <span style="color: #6c757d; font-family: Bahnschrift" align="left">
 Hi <span style="color: darkgoldenrod">there</span> 👋.
 </span>
+<p align="center">
 <img style="border-radius: 2%;" 
   src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" />
-
+</p>
 <p align="center" style="background: #313131;padding: 10px; color: #6c757d; font-family: 'Noto Serif', serif">
 I'm  Abdulaziz | Web Application Developer 🎓 From  Qassim University 🏛 holds a diploma certificate
 | I'm a passionate learner and always ready to learn and work through 
