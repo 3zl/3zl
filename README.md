@@ -52,8 +52,8 @@ Apart from that, I also like to mentor and mentor beginners 👨🏻 💻
 </h2>
 <br>
 <p align = "center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=3zl&show_icons=true&theme=radical&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3zl&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src="https://github-readme-stats.vercel.app/api?username=13525646 &show_icons=true&theme=radical&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13525646 &hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
