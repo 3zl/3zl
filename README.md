@@ -2,9 +2,10 @@
 <span style="font-size: 14pt; color: #6c757d; font-family: 'Segoe Script'" align="left">
 Hi <span style="color: darkgoldenrod">there</span> 👋.
 </span>
+<p align="center">
 <img style="border-radius: 2%; width: 100%" 
   src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" />
-
+</p>
 <p align="center" 
 style="background: #313131;
 : 10px; color: rgba(150,154,163,0.55); 
@@ -56,6 +57,7 @@ Apart from that, I also like to mentor and mentor beginners 👨🏻 💻
 <br>
 <p align = "center">
   <img  src="https://github-readme-stats.vercel.app/api?username=3zl&show_icons=true&theme=radical&line_height=27">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3zl&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
