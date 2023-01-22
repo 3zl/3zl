@@ -32,7 +32,7 @@ Apart from that, I also like to mentor and mentor beginners 👨🏻 💻
 <a href="mailto: Q3zw@outlook.com">
  <img style="border-radius: 10%" src="https://img.shields.io/badge/-3zl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
+<a href="https://www.linkedin.com/in/abdulaziz-alyahya-13572725b/">
  <img style="border-radius: 10%" src="https://img.shields.io/badge/-3zl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
  <a href="https://twitter.com/3zwl_">
