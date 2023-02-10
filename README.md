@@ -3,7 +3,7 @@
 Hi <span style="color: darkgoldenrod">there</span> 👋.
 </span>
 <p align="center">
-<img style="border-radius: 2%; width: 100%" 
+<img style="border-radius: 2%; width: 80%" 
   src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
 </p>
 <p align="center" 
