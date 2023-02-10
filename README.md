@@ -4,7 +4,7 @@ Hi <span style="color: darkgoldenrod">there</span> 👋.
 </span>
 <p align="center">
 <img style="border-radius: 2%; width: 100%" 
-  src="https://media.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif" />
+  src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" />
 </p>
 <p align="center" 
 style="background: #313131;
