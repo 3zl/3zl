@@ -40,7 +40,7 @@ Apart from that, I also like to mentor and mentor beginners 👨🏻 💻
  <img style="border-radius: 10%" src="https://img.shields.io/badge/-Abdulaziz-223c4f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulaziz-al-yahay-1929b9262/"/>
 </a>
  <a href="https://twitter.com/Q3zwl">
- <img style="border-radius: 10%" src="https://img.shields.io/badge/-Abdulaziz-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/3zl"/>
+ <img style="border-radius: 10%" src="https://img.icons8.com/ios-glyphs/60/x-coordinate.png/badge/-Abdulaziz-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/3zl"/>
 </a>
 </p>
 
